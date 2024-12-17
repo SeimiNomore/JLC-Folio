@@ -18,11 +18,6 @@ description: >-
 lang: en-US
 timezone:  Europe/Rome
 
-repo: https://github.com/DavideBri/Gesko # site repo [optional]
-
-
-repo: https://github.com/Seiminomore/post02 # site repo [optional]
-
 repo: https://github.com/SeimiNomore/port02 # site repo [optional]
 
 
