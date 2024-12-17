@@ -41,11 +41,6 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 
 # URL settings
 
-url: "https://DavideBri.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
-
-url: "https://Seiminomore.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/post02" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 
 url: "https://Seiminomore.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "/port02" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
