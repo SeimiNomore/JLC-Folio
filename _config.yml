@@ -7,24 +7,24 @@ description: >-
 =======
 site: Portfolio
 title: J.L. Christian Portfolio
-greetings: Hello there! 👋
+greetings: Codex Portfolio
 description: >-
-  just a minimalist, personal blog
->>>>>>> a5abcfef23d5074d6f005332592ab999291000ed
+  A portfolio of my creative works and collabrations
+
 lang: en-US
 timezone:  Europe/Rome
-<<<<<<< HEAD
+
 repo: https://github.com/Seiminomore/post02 # site repo [optional]
 =======
 repo: https://github.com/SeimiNomore/port02 # site repo [optional]
->>>>>>> a5abcfef23d5074d6f005332592ab999291000ed
+
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: # replace with your disqus shortname
 comments-enabled: false # true to enable disqus comments, false to hide them
 
 author:
   name: Seimi Nomore
-  bio: just a minimalist, personal blog
+  bio: Fine Artist | Art Director
   userpicture: 
   username: # general username
   github: Seiminomore # github username
