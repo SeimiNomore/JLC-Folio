@@ -1,21 +1,33 @@
+<<<<<<< HEAD
+site: J.L. Christian
+title: J.L. Christian
+greetings: Codex Portfolio 
+description: >- 
+  A portfolio of my creative works and collabrations
+=======
 site: Portfolio
 title: J.L. Christian Portfolio
 greetings: Hello there! 👋
 description: >-
   just a minimalist, personal blog
+>>>>>>> a5abcfef23d5074d6f005332592ab999291000ed
 lang: en-US
 timezone:  Europe/Rome
+<<<<<<< HEAD
+repo: https://github.com/Seiminomore/post02 # site repo [optional]
+=======
 repo: https://github.com/SeimiNomore/port02 # site repo [optional]
+>>>>>>> a5abcfef23d5074d6f005332592ab999291000ed
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: # replace with your disqus shortname
 comments-enabled: false # true to enable disqus comments, false to hide them
 
 author:
-  name: gesko
+  name: Seimi Nomore
   bio: just a minimalist, personal blog
   userpicture: 
   username: # general username
-  github: DavideBri # github username
+  github: Seiminomore # github username
   twitter: # twitter username
   mastodon: hachyderm.io/@davidebri # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
@@ -26,7 +38,11 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 
 # URL settings
 url: "https://Seiminomore.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "/post02" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+=======
+url: "https://Seiminomore.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "/port02" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+
 permalink: pretty
 
 # local
