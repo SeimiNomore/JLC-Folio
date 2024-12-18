@@ -256,8 +256,8 @@ blockquote {
 
 h1 {
 	color: var(--main-text-color);
-	text-transform: large;
-	font-size: 1rem;
+	text-transform: initial;
+	font-size: large;
 	font-weight: bold;
 	margin-bottom: 1.5rem;
 }
@@ -268,7 +268,7 @@ h4,
 h5 {
 	font-weight: bold;
 	margin-bottom: 1.5rem;
-	font-size: larger;
+	font-size: 2rem;
 }
 
 h2 {
