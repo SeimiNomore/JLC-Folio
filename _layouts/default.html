@@ -33,10 +33,7 @@ layout: compress
 
 <footer class="social-footer">
 
-  <div class="flex-row-between">
-    <a href="{{ site.url }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></i>  </a>
-  </div>
-    {% endif %}
+ 
   <div class="social-footer-icons">
     {% if site.author.github %}
     <a href="https://github.com/{{ site.author.github }}" title="Github profile" target="_blank"
@@ -58,6 +55,11 @@ layout: compress
         class="fa-solid fa-rss" aria-hidden="true"></i></a>
     <a href="https://github.com/DavideBri/Gesko" title="Browse the code" target="_blank" rel="noopener noreferrer"><i
         class="fa-solid fa-code" aria-hidden="true"></i></a>
+    {% endif %}
+    <div class="flex-row-between">
+          <a href="{{ site.url }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></i>  </a>
+    </div>
+    
   </div>
 </footer>
 
