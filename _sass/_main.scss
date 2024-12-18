@@ -187,18 +187,21 @@ pre {
 	background: var(--code-bg-color);
 	margin: 0 -27px;
 	border-width: 1px;
+  margin-top: 20px;
 }
 
 code {
 	font-family: var(--source-code-font), monospace;
 	margin: unset;
 	padding: 0.1rem;
+  margin-top: 20px;
 	color: var(--highlight-text-color);
 }
 
 pre code {
 	background-color: unset;
 	color: unset;
+  margin-top: 20px;
 }
 
 pre {
