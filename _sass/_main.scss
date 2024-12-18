@@ -341,9 +341,9 @@ b {
 	font-weight: bold;
 }
 
-.post {
+section.post {
     display: block;
-    max-width: 650p
+    max-width: 650px;
     margin: 60px auto 10px auto;
     width: 100%;
 }
@@ -376,10 +376,6 @@ time {
 
 main {
 	
-}
-
-#theme-toggle {
-  display: none;
 }
 
 
