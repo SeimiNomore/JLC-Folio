@@ -568,11 +568,12 @@ $link-color: var(--link-color);
 .timeline {
   position: center;
   max-width: 55rem;
-	margin: -5rem auto 0;
-	padding: 2.4rem 2rem;
+  margin: -6em auto;
+  padding: 1px;
   list-style-type: none;
   height: 100%;
 
+  max-width: 55rem;
 
 
   @media (max-width: 860px) {
