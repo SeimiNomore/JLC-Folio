@@ -16,12 +16,12 @@ description: >-
   A portfolio of my creative works and collabrations
 
 lang: en-US
-timezone:  Europe/Rome
+timezone:  US/California 
 
 repo:  # site repo [optional]
 
 
-data-theme: dark # default theme "dark" | "light"
+data-theme: light # default theme "dark" | "light"
 discus-identifier: # replace with your disqus shortname
 comments-enabled: false # true to enable disqus comments, false to hide them
 
@@ -106,6 +106,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  
 
 relative_links:
   enabled:     true
