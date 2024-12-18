@@ -5,7 +5,7 @@ title: About
 description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 ---
 
-a professional artist—sharing the work, passion, and creative vision that drives my career.
+A professional artist—sharing the work, passion, and creative vision that drives my career.
 
 What You’ll Find
 - Processes: An inside look into my creative process, from conceptualization to completion, highlighting the meticulous techniques and inspirations behind each project.
@@ -18,4 +18,4 @@ What You’ll Find
 
 Warm Regards 
 
-J.L.C. ~
+J.L. Christian ~
