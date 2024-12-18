@@ -272,23 +272,23 @@ h5 {
 }
 
 h2 {
-	font-size: 1.8rem;
-}
-
-h3 {
-	font-size: 1.6rem;
-}
-
-h4 {
 	font-size: 1.4rem;
 }
 
-h5 {
+h3 {
+	font-size: 1.3rem;
+}
+
+h4 {
 	font-size: 1.2rem;
 }
 
+h5 {
+	font-size: 1.1rem;
+}
+
 h6 {
-	font-size: 1rem;
+	font-size: revert;
 }
 
 section h1:first-child {
