@@ -7,7 +7,8 @@ description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 
 A professional artist—sharing the work, passion, and creative vision that drives my career.
 
-What You’ll Find
+**What You’ll Find**
+
 - Processes: An inside look into my creative process, from conceptualization to completion, highlighting the meticulous techniques and inspirations behind each project.
 
 - Digital Art: A diverse array of visually striking digital artworks that blend traditional artistic principles with cutting-edge technology.
