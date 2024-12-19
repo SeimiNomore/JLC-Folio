@@ -2,13 +2,11 @@ site: J.L. Christian
 title: J.L. Christian
 greetings: Codex Portfolio 
 description: >- 
-  A portfolio of my creative works and collabrations  
-
- 
+  A portfolio of my creative works and collabrations
 
 site: Portfolio
 
-title: J.L. Christian Portfoli
+title: J.L. Christian Port
 greetings: Hello there! 👋
 
 title: J.L. Christian Portfolio
@@ -36,7 +34,7 @@ author:
   twitter: # twitter username
   mastodon: hachyderm.io/@davidebri # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
-  email: mr.jonathanchristian@gmail.com # email adress
+  email: your-email@email.com # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
