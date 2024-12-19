@@ -491,8 +491,7 @@ color: #333;
     -webkit-appearance: none;
     appearance: none;
     background-color: rgba(128, 128, 128, 0.1);
-    border: 1px solid rgba(128, 128, 128, 0.1);
-    font-size: inherit;
+    border: 1px solid rgba(128, 128, 128, 0.1);<section class="post"><section class="post">
     &::-webkit-input-placeholder {
       color: #808080;
     }
@@ -588,7 +587,7 @@ $link-color: var(--link-color);
 .timeline {
   position: relative;
   width: 650px;
-  
+  margin: -6em auto;
   padding: 1px;
   list-style-type: none;
   height: 100%;
