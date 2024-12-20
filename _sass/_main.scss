@@ -602,9 +602,8 @@ color: #333;
     &:before {
       position: absolute;
       left: 50%;
-      /* Center the vertical line */
       top: 0;
-      content: ' ';
+      content: " ";
       display: block;
       width: 6px;
       height: 100%;
