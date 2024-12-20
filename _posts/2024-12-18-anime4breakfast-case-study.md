@@ -85,7 +85,6 @@ Each element—the color, the font, and the composition—came together organica
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-
 <br>
 
 ![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
