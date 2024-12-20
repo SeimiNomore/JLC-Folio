@@ -477,7 +477,7 @@ color: #333;
     left: 11px;
   }
 
-  input[type="search"]
+  input[type="search"] {
     top: -1rem;
     left: 0;
     border: 0;
@@ -491,7 +491,7 @@ color: #333;
     -webkit-appearance: none;
     appearance: none;
     background-color: rgba(128, 128, 128, 0.1);
-    border: 1px solid rgba(128, 128, 128, 0.1);<section class="post"><section class="post">
+    border: 1px solid rgba(128, 128, 128, 0.1);
     &::-webkit-input-placeholder {
       color: #808080;
     }
