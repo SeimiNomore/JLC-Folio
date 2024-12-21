@@ -1,3 +1,10 @@
+layout: post
+title: Anime4breakfast Logo Development
+description: How the Anime4breakfast logo was developed
+summary: What elements created the idea of the (A4B!)
+tags: typography, logo development
+minute: 1
+
 ![a4b-beta](/JLC-Folio/assets/img/a4b-beta.png)
 
 A4B! logo **(Draft Development)** for 2006 - 2007 
