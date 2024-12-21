@@ -23,7 +23,7 @@ Conception / 2006 - 2011
 Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.*
 
 
-![a4b_blog-page.png](JLC-Folio/assets/img/a4b_blog-page.png)
+![a4b_blog-page.png](/JLC-Folio/assets/img/a4b_blog-page.png)
 
 **a4b! Issue #2 Banner**
 
@@ -34,7 +34,7 @@ This marked the inception of JoyBoy. JoyBoy was born from the emotions that surg
 
 
 
-![a4b-beta](assets/img/a4b-beta.png)
+![a4b-beta](/JLC-Folio/assets/img/a4b-beta.png)
 
 A4B! logo **(Draft Development)** for 2006 - 2007 
 
