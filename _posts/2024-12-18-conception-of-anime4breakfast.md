@@ -15,7 +15,7 @@ Conception / 2006 - 2011
 
 
 
-![a4b-blog-season](JLC-Folio/assets/img/a4b-blog-season.png)
+![a4b-blog-season](/JLC-Folio/assets/img/a4b-blog-season.png)
 **a4b! Blog Season**
 
 ---
