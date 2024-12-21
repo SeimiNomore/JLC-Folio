@@ -5,7 +5,7 @@ summary: What elements created the idea of the (A4B!)
 tags: typography, logo development
 minute: 1
 
-![](assets/img/a4b-index.jpg)
+![](/JLC-Folio/assets/img/a4b-index.jpg)
 **Racquel Brazer** Advertizment - 01 for A4B!
 
 ---
@@ -15,7 +15,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 <br>
 
-![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
+![a4bmusickowloon city](/JLC-Folio/assets/img/a4bmusickowloon_city.png)
 **A4B! Music Kowloon City - Online Magazine cover design** / 2007
 
 ---
@@ -26,7 +26,7 @@ This inaugural issue brings focus to KC93, the music production division born fr
 
 <br>
 
-![backflipkid](assets/img/backflipkid.png)
+![backflipkid](/JLC-Folio/assets/img/backflipkid.png)
 
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
@@ -34,7 +34,7 @@ This inaugural issue brings focus to KC93, the music production division born fr
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
 
-![tmoney-a4b](assets/img/tmoney-a4b.png)
+![tmoney-a4b](/JLC-Folio/assets/img/tmoney-a4b.png)
 **T-Money Ad 2**
 
 ---
@@ -43,7 +43,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 
 
-![rsis-a4b](assets/img/rsis-a4b.png)
+![rsis-a4b](/JLC-Folio/assets/img/rsis-a4b.png)
 **Rsisanime** First Advertizment with Anime4Breakfast
 
 ---
