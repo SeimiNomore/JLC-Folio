@@ -20,7 +20,7 @@ A professional artist—sharing the work, passion, and creative vision that driv
 - **Art Direction:** Case studies and projects where I have directed creative visions to life, ensuring cohesive and impactful results.
 
 - **Collaborations:** A showcase of partnerships with other artists, brands, and creative professionals, emphasizing the power of collaboration in creating unique works.
-
+<br>
 Warm Regards 
 
 J.L. Christian ~
