@@ -33,8 +33,10 @@ layout: compress
 
 <footer class="social-footer">
   <div class="social-footer-icons">
-    <i class="fa-brands fa-linkedin"></i>
-    {% if site.author.github %}
+    <a href="https://linkedin.com/in/jonathanlejon/" title="LinkedIn profile" target="_blank"
+    rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+    
+      {% if site.author.github %}
     <a href="https://github.com/{{ site.author.github }}" title="Github profile" target="_blank"
       rel="noopener noreferrer"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
     {% endif %}
