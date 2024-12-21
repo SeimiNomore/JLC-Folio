@@ -19,7 +19,7 @@ This idea also sparked the aesthetic of **Anime4Breakfast** itself. Instead of e
 
 Anime4Breakfast evolved into a broadcast-like network, where I conducted personal journalism on topics that bridged anime with music, fine art, fashion, and more. It became a space for exploring how these elements intersected and how they resonated with individuals from diverse career paths and walks of life who also shared a love for anime. The platform became a central sanctuary for like-minded people to gather, connect, and celebrate their passions.  
 
-![a4b-kowloon](assets/img/a4b-kowloon.jpg) *Image Caption:*
+![a4b-kowloon](/JLC-Folio/assets/img/a4b-kowloon.jpg) *Image Caption:*
 
 *a4b! Kowloon - 2007 / Feb.*
 
