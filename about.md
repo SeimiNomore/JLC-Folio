@@ -7,7 +7,7 @@ description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 
 <div class="flex-row-between">
 	<a href="{{ https://seiminomore.github.io/JLC-Folio/ }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></i> Home</a> -
-	<a href="{{https://linkedin.com/in/jonathanlejon/}}{{ site.baseurl }}"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+	<a href="{{https://linkedin.com/in/jonathanlejon/}}{{ site.baseurl }}"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
 
 	
 </div>
