@@ -23,31 +23,31 @@ I am a multidisciplinary artist whose professional journey spans art direction, 
 
 ### Career Timeline and Disciplines  
 
-#### 2008–2012: Early Career – Fine Art and Independent Projects
-  
+##### 2008–2012: Early Career – Fine Art and Independent Projects
+
 - Explored traditional mediums such as painting, drawing, and sculpture to establish my creative voice.  
 - Developed personal projects focused on cultural narratives and storytelling.  
 - Showcased work in local exhibitions, gaining recognition and building connections within the art community.
 
-#### 2013–2016: Expansion into Art Direction  
+##### 2013–2016: Expansion into Art Direction  
 
 - Transitioned into art direction, overseeing visual projects for branding, campaigns, and events.  
 - Led creative teams in conceptualizing and delivering cohesive visual identities.  
 - Directed photoshoots, designed installations, and managed end-to-end creative processes.  
 
-#### 2017–2019: Creative and Product Development 
+##### 2017–2019: Creative and Product Development 
 
 - Focused on product development, designing physical and digital goods with an artistic edge.  
 - Collaborated with manufacturers, designers, and marketing teams to produce innovative products.  
 - Launched limited-edition series and bespoke pieces blending functionality with artistic storytelling.  
 
-#### 2020–2022: Character Development and Narrative Design
+##### 2020–2022: Character Development and Narrative Design
 
 - Delved into character design and narrative building for multimedia projects.  
 - Created characters that incorporated rich storytelling, cultural references, and symbolic themes.  
 - Partnered with creative teams to develop worlds and integrate characters into broader narratives.  
 
-#### 2023–Present: Multidisciplinary Collaboration and Innovation
+##### 2023–Present: Multidisciplinary Collaboration and Innovation
 
 - Focused on blending fine art with storytelling across platforms, including exhibitions, digital media, and experiential projects.  
 - Curating and archiving my body of work to create immersive experiences for collectors and audiences.  
