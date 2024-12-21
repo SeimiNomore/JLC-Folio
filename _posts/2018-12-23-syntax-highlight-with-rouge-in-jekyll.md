@@ -1,29 +1,19 @@
 ---
 layout: post
-title: Syntax highlight with Rouge in Jekyll
-description: Enable syntax highlighting in your site
-summary: Enable syntax highlighting in your site.
+title: Anime4Breakfast: A Space for Nostalgia and Nighttime Creativity 
+description: Adopting anime to a art collective.
+summary: Applying Nostalgia to a brand.
 comments: true
-tags: jekyll coding
+tags: anime, branding,
 minute: 1
 ---
 
+Written by J. L. Christian
 
-``` js
-var foo = function (bar) {
-  return bar++;
-};
+During the development phase of Anime4Breakfast, my goal was to create a platform that resonated deeply with my own creative process—rooted in nostalgia and inspired by the late-night hours when my ideas come to life. I wanted to channel this perspective into a shared space where like-minded individuals could gather, collaborate, and be inspired.
 
-console.log(foo(5));
-```
+The concept behind Anime4Breakfast was simple yet intentional: to design a comfortable environment that fostered creativity and connection. By building a space that reflected my own inspirations, I believed I could naturally attract other creatives who shared the same passions.
 
+Anime4Breakfast also aimed to reimagine the spirit of platforms like Adult Swim, offering a more curated approach to anime. It emphasized not just the shows themselves, but also the brilliance of the creators behind them—the studios, writers, and artists who bring these works to life.
 
-Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.
-
-Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90's. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.
-
-VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.
-
-Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.
-
-Actually hella you probably haven't heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.
+This project represents my commitment to creating spaces that inspire, connect, and celebrate the artistry and innovation within the anime community.
