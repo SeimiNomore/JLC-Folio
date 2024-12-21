@@ -22,6 +22,11 @@ A professional artist—sharing the work, passion, and creative vision that driv
 
 - **Collaborations:** A showcase of partnerships with other artists, brands, and creative professionals, emphasizing the power of collaboration in creating unique works.
 <br>
+<br>
+
+
+
+
 Warm Regards 
 
 J.L. Christian ~
