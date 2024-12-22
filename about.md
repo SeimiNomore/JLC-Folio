@@ -21,7 +21,7 @@ I am a multidisciplinary artist whose professional journey spans art direction, 
 ---
 <br>
 
-### Career Timeline and Disciplines  
+**Career Timeline and Disciplines**  
 
 #### 2008–2012: Early Career – Fine Art and Independent Projects
   
