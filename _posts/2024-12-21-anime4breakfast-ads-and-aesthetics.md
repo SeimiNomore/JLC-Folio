@@ -43,7 +43,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 
 
-![rsis-a4b](/JLC-Folio/assets/img/rsis-a4b.png)
+![rsis-a4b](/JLC-Folio/assets/img/rsisanime.png)
 **Rsisanime** First Advertizment with Anime4Breakfast
 
 ---
