@@ -23,7 +23,6 @@ This portfolio is designed to highlight my capabilities in creative development,
 
 
          clickable link provided within the article details, directing readers to additional information, resources, or related content. This reference enhances the reader's understanding by guiding them to relevant sources or expanding on key points discussed in the article.
-     
 <br>
 * Image Caption
 
