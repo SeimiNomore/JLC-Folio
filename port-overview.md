@@ -53,6 +53,7 @@ My work is guided by a clear and ambitious vision. I excel at aligning aesthetic
 <br>
 
  **What This Portfolio Represents**
+ 
 ---
 
 <br>
