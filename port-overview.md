@@ -32,7 +32,7 @@ I have a strong commitment to leveraging creativity to connect and inspire. Thro
 My work is guided by a clear and ambitious vision. I excel at aligning aesthetic direction with strategic objectives, ensuring that every project achieves its creative potential while supporting organizational goals.  
 
 ## What This Portfolio Represents
-
+---
 This portfolio is more than a collection of my work; it’s a testament to my dedication to pushing creative boundaries and leading with purpose. Each project is a reflection of my values, my vision, and my relentless drive to create art that resonates and inspires.
 
 Thank you for exploring my portfolio. I hope it gives you a glimpse into my world and the passion that fuels my work. 
