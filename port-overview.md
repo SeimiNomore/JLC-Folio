@@ -15,11 +15,13 @@ This portfolio is designed to highlight my capabilities in creative development,
 
 <br>
 
+
+##### Site Features
+
 ---
 
 <br>
 
-##### Site Features
 * Search Bar
 * Chronological Order
 * Dates of Entry
@@ -53,7 +55,7 @@ My work is guided by a clear and ambitious vision. I excel at aligning aesthetic
 <br>
 
  **What This Portfolio Represents**
- 
+
 ---
 
 <br>
