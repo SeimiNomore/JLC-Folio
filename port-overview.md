@@ -9,6 +9,8 @@ description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 	<a href="{{ https://seiminomore.github.io/JLC-Folio/ }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></i> Home
 	</a>
 
+</div>
+<br>
 This portfolio is designed to highlight my capabilities in creative development, art direction, character creation, and digital illustration, as well as my proven track record in leadership and community engagement. Each section demonstrates my ability to contribute meaningfully to any organization, delivering results that align with both artistic and business objectives.
 
 ##### Site Features
