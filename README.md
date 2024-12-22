@@ -1,66 +1,46 @@
-# Gesko
+# JLC-Folio 
 
-Simple and minimal Jekyll blog. 
-Forked from [Asko](https://github.com/manuelmazzuola/asko).
-Original theme from [Sidey](https://github.com/ronv/sidey).
+Simple and minimal Jekyll Protfolio blog. 
 
 ### Features
 
-- [x] Responsive Design
-- [x] Dark/Ligh theme 🌗
-- [x] Inline CSS
-- [x] Anchor headings
-- [x] Tags & Tag pages 
-- [x] 404 page 
-- [x] Robots.txt 🤖
-- [x] Atom & Json feeds 📡
-- [x] Sass 
-- [x] About page, with Timeline! 🗣️
-- [x] PageSpeed and w3Validator tests PASSED ✔️
-- [x] Search bar 🔎
-- [x] Next & Previous Post ⏮️ ⏭️
-- [x] Automatic/Manual reading time estimation 🕐
-- [x] Disqus section (optional) ✍️ 
+* Search Bar
+* Chronological Order
+* Dates of Entry 
+* Above Me - CV
+* Tags Refrence 
+* Text link Refrence
+* Image Caption
 
+Welcome to my professional portfolio, a curated showcase of my journey as a multidisciplinary creative. Here, you'll find the breadth of my work across various disciplines, all tied together by a commitment to innovation, leadership, and impactful storytelling.
 
-## Screenshot
+### About My Portfolio  
 
-![light-theme](https://github.com/DavideBri/Gesko/blob/master/light-theme.jpg)
-![dark-theme](https://github.com/DavideBri/Gesko/blob/master/dark-theme.jpg)
+This space represents my dedication to creative development, art direction, character creation, and digital illustration, alongside my passion for fostering collaboration and driving visionary projects. Each section of my portfolio highlights a unique aspect of my work:
 
-## Installation
+1. **Creative Development**  
+   I specialize in taking ideas from concept to execution, crafting projects that resonate deeply and challenge conventional boundaries. My approach combines intuition with strategy, ensuring every piece is both meaningful and impactful.  
 
-Be sure to have all [you need](https://jekyllrb.com/docs/installation/) before running anything. 
+2. **Art Direction and Leadership**  
+   With a strong foundation in leading creative teams and projects, I focus on shaping cohesive visual narratives. From large-scale productions to intimate artistic endeavors, I bring clarity and direction to every project I lead.  
 
-Run local server:
+3. **Character Development**  
+   Creating characters is one of my core passions. Whether through illustration or narrative design, I build multidimensional personas that serve as the heart of my creative projects, bringing stories to life in unforgettable ways.  
 
-```bash
-$ git clone https://github.com/DavideBri/Gesko.git
-$ cd Gesko
-$ bundle install
-$ bundle exec jekyll build
-$ bundle exec jekyll serve
-```
+4. **Digital Illustration**  
+   My digital illustrations are a blend of precision and artistic expression, capturing the essence of ideas through visuals. Each piece reflects my ability to harmonize technical skill with a unique creative voice.  
 
-Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
-If you want to upload it to Github Pages, remember to update the `_congif.yml` and if you are going to upload in a repo called yournickname.github.io, remember to update the `{{ site.baseurl }}` to `{{ site.url }}` .
-Note that there is also a gtag in the [`_layouts/default.html`](https://github.com/DavideBri/Gesko/blob/6776e4afc384dc3d50ce2001715929c8e70a914c/_layouts/default.html#L9), you should remove it.
+5. **Outreach and Community Impact**  
+   I believe in the power of art to connect people. Through workshops, creative initiatives, and collaborative projects, I strive to foster meaningful engagement and inspire others in their creative journeys.  
 
-To create new tag, create a folder in `tag/` with the name of the new one. In this folder add an `index.html` file and just add this header:
-```
----
-layout: tag
-tag: yourNewTag
----
-```
-Then build again and you're ready!!
+6. **Vision and Visual Direction**  
+   Every project I take on begins with a clear and compelling vision. I excel at aligning visual storytelling with strategic goals, ensuring that the final product is both aesthetically striking and conceptually strong.  
 
-## Contributing
+### What This Portfolio Represents  
 
-Yeaaa feel free to open a pull request.
+This portfolio is more than a collection of my work; it’s a testament to my dedication to pushing creative boundaries and leading with purpose. Each project is a reflection of my values, my vision, and my relentless drive to create art that resonates and inspires.  
 
-
-If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
+Thank you for exploring my portfolio. I hope it gives you a glimpse into my world and the passion that fuels my work.
 
 ## License
 
