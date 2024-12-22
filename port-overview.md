@@ -17,7 +17,7 @@ This portfolio is designed to highlight my capabilities in creative development,
 * Search Bar
 * Chronological Order
 * Dates of Entry
-* Above Me - CV
+* About Me - CV
 * Tags Refrence
 * Text link Refrence 
 <br>
