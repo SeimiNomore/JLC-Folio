@@ -60,8 +60,8 @@ I am a multidisciplinary artist whose professional journey spans art direction, 
 
 <br>
 <br>
-
-
+![JLC-Recovered](/JLC-Folio/assets/img/JLC-Recovered.png)
+<br>
 Warm Regards 
 
 J.L. Christian ~
