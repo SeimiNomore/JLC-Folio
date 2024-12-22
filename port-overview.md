@@ -39,8 +39,7 @@ My digital illustration portfolio demonstrates mastery in creating visually stri
 ##### Outreach and Community Impact  
 I have a strong commitment to leveraging creativity to connect and inspire. Through outreach initiatives, workshops, and collaborative projects, I have engaged with communities to drive meaningful artistic and cultural dialogue.  
 
-#####
- Vision and Visual Direction  
+##### Vision and Visual Direction  
 My work is guided by a clear and ambitious vision. I excel at aligning aesthetic direction with strategic objectives, ensuring that every project achieves its creative potential while supporting organizational goals.  
 
  **What This Portfolio Represents**
