@@ -48,11 +48,14 @@ My digital illustration portfolio demonstrates mastery in creating visually stri
 I have a strong commitment to leveraging creativity to connect and inspire. Through outreach initiatives, workshops, and collaborative projects, I have engaged with communities to drive meaningful artistic and cultural dialogue.  
 
 ##### Vision and Visual Direction  
-My work is guided by a clear and ambitious vision. I excel at aligning aesthetic direction with strategic objectives, ensuring that every project achieves its creative potential while supporting organizational goals.  
+My work is guided by a clear and ambitious vision. I excel at aligning aesthetic direction with strategic objectives, ensuring that every project achieves its creative potential while supporting organizational goals.
+
+<br>
 
  **What This Portfolio Represents**
-
 ---
+
+<br>
 
 This portfolio is more than a collection of my work; it’s a testament to my dedication to pushing creative boundaries and leading with purpose. Each project is a reflection of my values, my vision, and my relentless drive to create art that resonates and inspires.
 
