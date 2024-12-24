@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Port-Overview
+title: Portfolio-Overview
 
-description: Learn more about JLC-ART and the vision behind the Artworks Codex.
+description: Discover how the site operates and explore its features to maximize your experience with JLC-Folio vision behind the works.
+
 ---
 
 <div class="flex-row-between">
