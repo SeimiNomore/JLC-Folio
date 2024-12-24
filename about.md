@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 
 description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 ---
