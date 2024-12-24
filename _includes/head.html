@@ -5,8 +5,42 @@
   <link rel="stylesheet" href="https://seiminomore.github.io/JLC-Folio/assets/css/syntax.css">
   <link rel="preconnect" href="https://cdnjs.cloudflare.com">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+ 
+  <link rel="icon" href="/img/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-16x16.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="/images/favicon-32x32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="/images/favicon-96x96.png" sizes="96x96" type="image/png">
+  <script src="https://kit.fontawesome.com/6ffdb1beec.js" crossorigin="anonymous"></script>
 
-      <meta property="og:JLC-Folio Codex" content="JLC-Folio Codex">
+  <link rel="stylesheet" href="{{ https://seiminomore.github.io/JLC-Folio/ }}{{ site.baseurl }}/assets/css/syntax.css">
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  
+
+<!-- Open Graph Meta Tags (for Facebook, LinkedIn, etc.) -->
+  <meta property="og:title" content="JLC-Folio Codex">
+  <meta property="og:description" content="JLC-Folio Codex is a meticulously designed system or document aimed at organizing and presenting a vast array of knowledge, resources, or creative works in a structured and accessible format.">
+  <meta property="og:image" content="https://seiminomore.github.io/JLC-Folio/assets/img/JLC-Port.png">
+  <meta property="og:url" content="https://seiminomore.github.io/JLC-Folio">
+  <meta property="og:type" content="website">
+
+  
+  
+  
+
+<!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="My Website Title">
+  <meta name="twitter:description" content="**Portfolio Codex of J.L. Christian**: A curated archive of works from a multidisciplinary artist, blending digital art, art direction, product development, and collaborative innovation. This evolving collection highlights groundbreaking projects and the creative synergies shaping J.L. Christian's artistic journey.">
+  <meta name="twitter:image" content="https://seiminomore.github.io/JLC-Folio/assets/img/JLC-Port.png">
+
+<!-- Additional Meta Tags -->
+  <meta name="description" content="J.L. Christian's Portfolio Codex: A dynamic archive of multidisciplinary artistry, showcasing innovative works in digital art, product development, and creative collaborations.">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+
+  <meta property="og:JLC-Folio Codex" content="JLC-Folio Codex">
       <meta property="og:description" content="JLC-Folio Codex is a meticulously designed system or document aimed at organizing and presenting a vast array of knowledge, resources, or creative works in a structured and accessible format.">
       <meta property="og:image" content="SeimiNomore/JLC-Folio/assets/img/JLC-Port.png">
       <meta property="og:url" content="https://seiminomore.github.io/JLC-Folio/">
@@ -32,8 +66,9 @@
       {% unless page.tag or page.title %}
         - {{ site.description | escape }}
       {% endunless %}
-    </title>
+  </title>
     
+  <script>
     <link rel="icon" href="JLC-Folio/assets/img/favicon.ico" sizes="any">
     <link rel="icon" href="JLC-Folio/assets/img/favicon-16x16.png" sizes="16x16">
     <link rel="icon" href="JLC-Folio/assets/img/favicon-32x32.png" sizes="32x32">
@@ -50,7 +85,7 @@
     <link rel="apple-touch-icon" href="JLC-Folio/assets/img/apple-icon-180x180.png" sizes="180x180">
     <link rel="manifest" href="JLC-Folio/assets/img/manifest.json">
     <link rel="msapplication-config" href="/images/browserconfig.xml">
-    <script 
+  </script> 
   
 
   
@@ -58,7 +93,18 @@
     <link rel="alternate" type="application/atom+xml" title="JLC-Folio" href="https://seiminomore.github.io/JLC-Folio/atom.xml">
     <link rel="alternate" type="application/json" title="JLC-Folio" href="https://seiminomore.github.io/JLC-Folio/feed.json" />
     <link rel="sitemap" type="application/xml" title="sitemap" href="https://seiminomore.github.io/JLC-Folio/sitemap.xml" />
+    
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="alternate" type="application/atom+xml" title="{{ J.L. Christian's Portfolio Codex }}" href="{{ https://seiminomore.github.io/JLC-Folio/ }}{{ site.baseurl }}/atom.xml">
+    <link rel="alternate" type="application/json" title="{{ J.L. Christian's Portfolio Codex }}" href="{{ https://seiminomore.github.io/JLC-Folio/ }}{{ site.baseurl }}/feed.json" />
+    <link rel="sitemap" type="application/xml" title="sitemap" href="{{ https://seiminomore.github.io/JLC-Folio/ }}{{ site.baseurl }}/sitemap.xml" />
       
+  {% if site.googlewebfonts %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?{{ site.googlewebfonts }}&display=swap" rel="stylesheet">
+  {% endif %}
+
+
   {% if site.googlewebfonts %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?{{ site.googlewebfonts }}&display=swap" rel="stylesheet">
