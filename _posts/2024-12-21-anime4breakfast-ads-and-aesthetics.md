@@ -1,9 +1,10 @@
+---
 layout: post
 title: Anime4breakfast Logo Development
 description: How the Anime4breakfast logo was developed
 summary: What elements created the idea of the (A4B!)
 tags: typography, logo development
-minute: 1
+---
 
 ![](/JLC-Folio/assets/img/a4b-index.jpg)
 **Racquel Brazer** Advertizment - 01 for A4B!
