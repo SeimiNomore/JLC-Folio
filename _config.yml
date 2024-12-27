@@ -49,7 +49,7 @@ author:
   username: # general username
   github: Seiminomore # github username
   twitter: # twitter username
-  mastodon: hachyderm.io/@davidebri # mastodon profile (ex. mastodon.social/@my_username)
+  mastodon: # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
   email: your-email@email.com # email adress
 
