@@ -6,7 +6,7 @@ summary: going off of the **JoyBoy** logo for A4B!
 tags: logo, typography, logo development
 ---
 
-![kid oreo2](assets/img/kid%20oreo2.png)
+![kid oreo2](assets/img/kid-oreo2.png)
 **A4B! Kid Oreo 2** Advertisement - 2007 / Feb.
 
 ---
