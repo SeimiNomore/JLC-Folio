@@ -6,12 +6,14 @@ summary: going off of the **JoyBoy** logo for A4B!
 tags: logo, typography, logo development
 ---
 
+It all started with an idea—a fleeting spark fueled by my love for storytelling, design, and the culture of anime. I wanted to create something that felt personal, something that spoke to the creative spirit that has always driven me. Anime4Breakfast wasn’t just a name; it was a concept, a vision of bringing people together through a shared love of art, ideas, and expression.
+
+The first ads I designed became my way of channeling that inspiration into something real. It wasn’t about following trends or making noise—it was about staying true to myself and letting my creativity take the lead. This was where the journey began.
+
 ![kid oreo2](/JLC-Folio/assets/img/kid-oreo2.png)
 **A4B! Kid Oreo 2** Advertisement - 2007 / Feb.
 
 ---
-
-**Artist Journal Entry: The Beginning of Anime4Breakfast**  
 
 This was where it all started—the first ads for Anime4Breakfast! Everything about this felt fresh, exciting, and brimming with potential. The concept stemmed from the JoyBoy logo I created earlier, which had this energy, this vibe that I knew I wanted to carry forward.  
 
