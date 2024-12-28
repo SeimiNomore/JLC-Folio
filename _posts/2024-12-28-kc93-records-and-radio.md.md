@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 
-description: The Beginning of the Memebers and collebrations
-summary: Developing advertisements for A4B!
-tags: typography, logo development
+title: KC.93 Records and Radio - Work with musicians  
+description: The Creation of KC.93
+summary: Developing advertisements for KC.93
+tags: logo development
 time: 5:23AM
 ---
 
@@ -11,7 +11,7 @@ time: 5:23AM
 
 ---
 
-Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
+K
 
 
 
