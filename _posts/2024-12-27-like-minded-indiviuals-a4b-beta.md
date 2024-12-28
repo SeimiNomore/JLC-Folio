@@ -21,8 +21,6 @@ The aesthetic and mystery of **Anime4breakfast** had always been central to its 
 
 ---
 
-### Journal Entry: The Timothy Connection  
-
 The journey toward discovering the brilliance of the Timothy brothers felt serendipitous, as though creativity itself had nudged me in their direction. It began with a series of engaging conversations with **Miles Timothy**, whose energy and artistic vision immediately struck a chord with me. In one such conversation, he introduced me to his brother, **Duval Timothy**, a multifaceted artist whose work carried a depth and texture that demanded attention.  
 
 I couldn’t help but feel that meeting these two was more than chance; it was an intersection of shared passions and mutual recognition of the potential in collaboration. Reflecting on their dynamic, I found myself imagining how their synergy could amplify a project I’d been cultivating for a while: **Anime4Breakfast**, my platform for creative exploration and innovation.  
