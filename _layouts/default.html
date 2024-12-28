@@ -24,7 +24,21 @@ layout: compress
    {% include anchor_headings.html html=content anchorBody="#" %}
   </main>
 
-  
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const timeElement = document.getElementById('current-time');
+
+        // Update the time every second
+        function updateTime() {
+            const currentTime = new Date().toLocaleTimeString();
+            timeElement.textContent = currentTime;
+        }
+
+        updateTime(); // Call once to set the initial time
+        setInterval(updateTime, 1000); // Update every second
+    });
+</script>
+
 
 
 
