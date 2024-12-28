@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anime4breakfast Logo Development
+title: Anime4breakfast Ads and Aesthetics Beta
 description: How the Anime4breakfast logo was developed
 summary: What elements created the idea of the (A4B!)
 tags: typography, logo development
