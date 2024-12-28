@@ -23,7 +23,7 @@ The concept for the Deval and Miles Timothy advertisement was born from a collec
 
 
 ![suckafree export](JLC-Folio/assets/img/pixelcut-export2.png)
-**Bad News S, Free** Sucka Free First Year at Anime4Breakfast
+**Bad News S, Free** Sucka Free First Year at Anime4Breakfast 2007 / Apr.
 
 --- 
 
