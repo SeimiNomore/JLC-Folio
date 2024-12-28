@@ -1,3 +1,12 @@
+---
+layout: post
+title: Anime4breakfast The Beginning of the Memebers
+description: How the Anime4breakfast logo was developed
+summary: What elements created the idea of the (A4B!)
+tags: typography, logo development
+time: 12:09AM
+---
+
 ![a4b kowloon art](assets/img/a4b-kowloon-art.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
