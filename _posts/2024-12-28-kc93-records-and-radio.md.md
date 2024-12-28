@@ -7,12 +7,6 @@ tags: logo development
 time: 5:23AM
 ---
 
-### Case study - KC93 RR
-
----
-
-### KC.93: A Hub for Music Curation 🎵  
-
 [KC.93](#) was developed as a dedicated space for the music curation I began to harvest. Working with a diverse range of talented individuals, I needed a platform that carried the same vibrant spirit as [anime4breakfast](#).  
 
 KC.93 bridges the worlds of sound, creativity, and collaboration, serving as a digital home for artists, curators, and enthusiasts to come together and celebrate music.  
