@@ -21,7 +21,7 @@ Anime4Breakfast evolved into a broadcast-like network, where I conducted persona
 
 ---
 
-*Advertivment for the the first issue of the online-magazine, since the kc93 was the topic of the issue I wanted to apply the iconc airline flying over the famous Walled City of Kowloon, as since in the anime Ghost in the Shell*
+*Advertivment for the the first issue of the online-magazine, since the kc93 was the topic of the issue I wanted to apply the iconc airline flying over the famous Walled City of Kowloon, as since in the anime [Ghost in the Shell](https://en.wikipedia.org/wiki/Ghost_in_the_Shell)*
 
 ![assets/img/gs-hongkng.webp](assets/img/gs-hongkng.webp)
 *Image Caption: Scene from the anime (Ghost in the Shell)*
