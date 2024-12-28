@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Anime4breakfast The Beginning of the Memebers
-description: How the Anime4breakfast logo was developed
-summary: What elements created the idea of the (A4B!)
+title: Anime4breakfast The like-minded individuals
+description: The Beginning of the Memebers and collebrations
+summary: Developing advertisements for A4B!
 tags: typography, logo development
 time: 12:09AM
 ---
