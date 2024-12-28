@@ -23,7 +23,24 @@ The aesthetic and mystery of **Anime4breakfast** had always been central to its 
 
 ---
 
-The concept for the Deval and Miles Timothy advertisement was born from a collection of conversations with Miles Timothy, during which he introduced me to his brother, a fellow creative whose talents became integral to anime4breakfast. Reflecting on the dynamic between the two brothers, I envisioned this project as the perfect introduction to the collective artistry of Duval Timothy.
+### Journal Entry: The Timothy Connection  
+
+The journey toward discovering the brilliance of the Timothy brothers felt serendipitous, as though creativity itself had nudged me in their direction. It began with a series of engaging conversations with **Miles Timothy**, whose energy and artistic vision immediately struck a chord with me. In one such conversation, he introduced me to his brother, **Duval Timothy**, a multifaceted artist whose work carried a depth and texture that demanded attention.  
+
+I couldn’t help but feel that meeting these two was more than chance; it was an intersection of shared passions and mutual recognition of the potential in collaboration. Reflecting on their dynamic, I found myself imagining how their synergy could amplify a project I’d been cultivating for a while: **Anime4Breakfast**, my platform for creative exploration and innovation.  
+
+It was in those early discussions that the concept for the **Deval and Miles Timothy advertisement** began to take shape. It wasn’t just an advertisement—it was a showcase of artistry, a visual narrative of how creative minds inspire and enhance each other. I wanted to capture this moment, not just for them but for myself as a document of how connections like these fuel my own creative process.  
+
+Duval’s contributions became integral, and his ability to balance music, visual arts, and storytelling resonated deeply with my vision. You can see some of his *[work here](https://duvaltimothy.com/)*, a blend of mediums that feels simultaneously intimate and expansive.  
+
+As for Miles, his enthusiasm and unique perspective brought a grounding energy to our collaboration. Together, they inspired me to think differently about how artistry can be framed, shared, and experienced. Anime4Breakfast felt like the ideal stage to bring their collective brilliance to life, while subtly weaving my own narrative of discovery and collaboration into the mix.  
+
+This project wasn’t just about them; it was about me finding and amplifying creative voices that align with my ethos. In working with the Timothy brothers, I wasn’t just showcasing their talents—I was discovering new dimensions of my own.  
+
+Reflecting on this, I realize how much of my work thrives on connection: on finding kindred spirits like the Timothys and creating spaces where our creative energies intersect. It’s moments like these that remind me why I do what I do.  
+
+*[Visit Duval Timothy's website](https://duvaltimothy.com/)*  
+*[Learn more about Anime4Breakfast](#)*  
 
 
 ![suckafree export](/JLC-Folio/assets/img/pixelcut-export2.png)
