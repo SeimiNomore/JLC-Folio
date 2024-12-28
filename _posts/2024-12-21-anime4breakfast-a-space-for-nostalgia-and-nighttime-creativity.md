@@ -23,7 +23,7 @@ Anime4Breakfast evolved into a broadcast-like network, where I conducted persona
 
 *Advertivment for the the first issue of the online-magazine, since the kc93 was the topic of the issue I wanted to apply the iconc airline flying over the famous Walled City of Kowloon, as since in the anime [Ghost in the Shell](https://en.wikipedia.org/wiki/Ghost_in_the_Shell)*
 
-![assets/img/gs-hongkng.webp](assets/img/gs-hongkng.png)
+![hongkng](/JLC-Folio/assets/img/gs-hongkng.png) 
 *Image Caption: Scene from the anime (Ghost in the Shell)*
 
 To enhance the experience, I wanted the aesthetic to reflect upscale creativity. Inspired by the nighttime, late-night productivity, I infused elements of modern Japanese bathhouse and resort aesthetics with modern architecture, reminiscent of *[Wallpaper](https://en.wikipedia.org/wiki/Wallpaper_magazine)* magazine. This contrast added sophistication and depth to the platform, making it more than just a fandom hub—it became a curated, elevated space where creativity and culture could thrive.  
