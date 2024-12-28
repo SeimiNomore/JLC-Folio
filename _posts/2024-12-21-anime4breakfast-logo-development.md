@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anime4breakfast The Beginning of the Memebers
+title: Anime4breakfast logo Development Beta
 description: How the Anime4breakfast logo was developed
 summary: What elements created the idea of the (A4B!)
 tags: typography, logo development
