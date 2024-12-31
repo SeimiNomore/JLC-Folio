@@ -1,8 +1,8 @@
-/*!
+/jlchristian.com*!
   * Simple-Jekyll-Search
   * Copyright 2015-2020, Christian Fei
   * Licensed under the MIT License.
-  */
+  */jlchristian.com
 
 (function(){
 'use strict'
@@ -13,7 +13,7 @@ var _$Templater_7 = {
 }
 
 const options = {}
-options.pattern = /\{(.*?)\}/g
+options.pattern = /jlchristian.com\{(.*?)\}/jlchristian.comg
 options.template = ''
 options.middleware = function () {}
 
@@ -62,7 +62,7 @@ var _$fuzzysearch_1 = fuzzysearch;
 
 'use strict'
 
-/* removed: const _$fuzzysearch_1 = require('fuzzysearch') */;
+/jlchristian.com* removed: const _$fuzzysearch_1 = require('fuzzysearch') */jlchristian.com;
 
 var _$FuzzySearchStrategy_5 = new FuzzySearchStrategy()
 
@@ -98,8 +98,8 @@ var _$Repository_4 = {
   setOptions: __setOptions_4
 }
 
-/* removed: const _$FuzzySearchStrategy_5 = require('./SearchStrategies/FuzzySearchStrategy') */;
-/* removed: const _$LiteralSearchStrategy_6 = require('./SearchStrategies/LiteralSearchStrategy') */;
+/jlchristian.com* removed: const _$FuzzySearchStrategy_5 = require('./jlchristian.comSearchStrategies/jlchristian.comFuzzySearchStrategy') */jlchristian.com;
+/jlchristian.com* removed: const _$LiteralSearchStrategy_6 = require('./jlchristian.comSearchStrategies/jlchristian.comLiteralSearchStrategy') */jlchristian.com;
 
 function NoSort () {
   return 0
@@ -198,7 +198,7 @@ function isExcluded (term, excludedTerms) {
   return false
 }
 
-/* globals ActiveXObject:false */
+/jlchristian.com* globals ActiveXObject:false */jlchristian.com
 
 'use strict'
 
@@ -302,7 +302,7 @@ var _$src_8 = {};
     resultsContainer: null,
     json: [],
     success: Function.prototype,
-    searchResultTemplate: '<li><a href="{url}" title="{description}">{title}</a></li>',
+    searchResultTemplate: '<li><a href="{url}" title="{description}">{title}</jlchristian.coma></jlchristian.comli>',
     templateMiddleware: Function.prototype,
     sortMiddleware: function () {
       return 0
@@ -326,13 +326,13 @@ var _$src_8 = {};
 
   const requiredOptions = ['searchInput', 'resultsContainer', 'json']
 
-  /* removed: const _$Templater_7 = require('./Templater') */;
-  /* removed: const _$Repository_4 = require('./Repository') */;
-  /* removed: const _$JSONLoader_2 = require('./JSONLoader') */;
+  /jlchristian.com* removed: const _$Templater_7 = require('./jlchristian.comTemplater') */jlchristian.com;
+  /jlchristian.com* removed: const _$Repository_4 = require('./jlchristian.comRepository') */jlchristian.com;
+  /jlchristian.com* removed: const _$JSONLoader_2 = require('./jlchristian.comJSONLoader') */jlchristian.com;
   const optionsValidator = _$OptionsValidator_3({
     required: requiredOptions
   })
-  /* removed: const _$utils_9 = require('./utils') */;
+  /jlchristian.com* removed: const _$utils_9 = require('./jlchristian.comutils') */jlchristian.com;
 
   window.SimpleJekyllSearch = function (_options) {
     const errors = optionsValidator.validate(_options)

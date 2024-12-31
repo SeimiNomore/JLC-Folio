@@ -45,7 +45,7 @@ author:
   name: Seimi Nomore
   bio: This portfolio serves as an index of my creative works, projects, and collaborations, offering a comprehensive case study and journal of my artistic journey. It is a curated resource that highlights both my individual projects and my collaborations with others, whether through partnerships, commissions, or team-driven endeavors. Each entry within this portfolio reflects my approach to managing and executing creative projects, showcasing the thought processes, methods, and outcomes of both my personal creations and collaborative efforts. Through this collection, I aim to demonstrate the versatility and adaptability of my practice, emphasizing how I engage with different creative professionals and environments. Each case study not only reveals my contribution to various projects but also the dynamic nature of working within diverse teams, alongside a deep exploration of my independent creative pursuits. This journal-style format provides a transparent view of the evolution of my work, offering insights into my collaborative strategies, problem-solving approaches, and the ongoing refinement of my craft.
 
-  userpicture: SeimiNomore//assets/img/JLC-Recovered.png
+  userpicture: SeimiNomore/jlchristian.com/assets/img/JLC-Recovered.png
   username: # general username
   github: SeimiNomore # github username
   twitter: # twitter username
@@ -59,7 +59,7 @@ googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;
 # URL settings
 
 url: "https://seiminomore.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+baseurl: "/jlchristian.com" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 
 
 permalink: pretty

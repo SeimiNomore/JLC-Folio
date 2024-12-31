@@ -7,10 +7,10 @@ description: Discover how the site operates and explore its features to maximize
 ---
 
 <div class="flex-row-between">
-	<a href="{{ https://seiminomore.github.io// }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></i> Home
-	</a>
+	<a href="{{ https:/jlchristian.com/jlchristian.comseiminomore.github.io/jlchristian.com/jlchristian.com }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></jlchristian.comi> Home
+	</jlchristian.coma>
 
-</div>
+</jlchristian.comdiv>
 <br>
 This portfolio is designed to highlight my capabilities in creative development, art direction, character creation, and digital illustration, as well as my proven track record in leadership and community engagement. Each section demonstrates my ability to contribute meaningfully to any organization, delivering results that align with both artistic and business objectives.
 

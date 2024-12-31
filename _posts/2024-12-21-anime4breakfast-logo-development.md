@@ -7,7 +7,7 @@ tags: typography, logo development
 time: 
 ---
 
-![a4b-beta](//assets/img/a4b-beta.png)
+![a4b-beta](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.coma4b-beta.png)
 
 A4B! logo **(Draft Development)** for 2006 - 2007 
 
@@ -15,7 +15,7 @@ A4B! logo **(Draft Development)** for 2006 - 2007
 
 The creation of the A4B logo was born from a nostalgic spark of imagination that lingered in the corners of my mind. When designing this logo, I aimed to capture the joy and excitement I felt as a child while drawing—a pure, unfiltered sense of fun. I wanted the design to reflect that same spirit while incorporating the "A!" as a nod to the anime inspiration behind the name.
 
-![a4b Hrz 01](//assets/img/a4b_Hrz-01.png)
+![a4b Hrz 01](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.coma4b_Hrz-01.png)
 
 A4B! logo **(Draft Development)** for 2006 - 2007 
 
@@ -23,7 +23,7 @@ A4B! logo **(Draft Development)** for 2006 - 2007
 
 The creation of the A4B logo was born from a nostalgic spark of imagination that lingered in the corners of my mind. When designing this logo, I aimed to capture the joy and excitement I felt as a child while drawing—a pure, unfiltered sense of fun. I wanted the design to reflect that same spirit while incorporating the "A!" as a nod to the anime inspiration behind the name.
 
-![a4b-alpha-flag](//assets/img/a4b-alpha-flag.png)
+![a4b-alpha-flag](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.coma4b-alpha-flag.png)
 
 A4B! logo **(Draft Development)** for 2006 - 2007 
 
@@ -31,9 +31,9 @@ A4B! logo **(Draft Development)** for 2006 - 2007
 
 The creation of the A4B logo was born from a nostalgic spark of imagination that lingered in the corners of my mind. When designing this logo, I aimed to capture the joy and excitement I felt as a child while drawing—a pure, unfiltered sense of fun. I wanted the design to reflect that same spirit while incorporating the "A!" as a nod to the anime inspiration behind the name.
 
-![a4b-logos3](//assets/img/a4b-logos3.png)
+![a4b-logos3](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.coma4b-logos3.png)
 
-A4B! logo - **Draft Development** / 2006 - 2007 
+A4B! logo - **Draft Development** /jlchristian.com 2006 - 2007 
 
 ---
 
