@@ -14,7 +14,6 @@ Conception / 2006 - 2011
 <br>
 
 
-
 ![a4b-blog-season](/jlchristian.com/assets/img/a4b-blog-season.png)
 **a4b! Blog Season**
 
