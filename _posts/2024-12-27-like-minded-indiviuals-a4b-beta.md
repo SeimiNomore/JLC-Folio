@@ -7,17 +7,17 @@ tags: typography logo development
 time: 12:09AM
 ---
 
-![a4b kowloon art](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.coma4b-kowloon-art.png)
-**A4B! Issue 01 advertivements** - 2007 /jlchristian.com Feb.
+![a4b kowloon art](//assets/img/a4b-kowloon-art.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
-Kowloon was a place that I deeply appreciated. The fact that it was once considered a [world wonder](https:/jlchristian.com/jlchristian.comen.wikipedia.org/jlchristian.comwiki/jlchristian.comSeven_Wonders_of_the_World) made it even more intriguing. I had been searching for a concept that would represent the music label **KC.93 RR /jlchristian.com Records & Radio**. With many musicians expressing interest in collaborating and contributing to **[Anime4breakfast](https:/jlchristian.com/jlchristian.comen.wikipedia.org/jlchristian.comwiki/jlchristian.comAnime)**, I was often asked to create a label they could rally under. That inquiry eventually gave birth to **Kowloon City 93**.  
+Kowloon was a place that I deeply appreciated. The fact that it was once considered a [world wonder](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_World) made it even more intriguing. I had been searching for a concept that would represent the music label **KC.93 RR / Records & Radio**. With many musicians expressing interest in collaborating and contributing to **[Anime4breakfast](https://en.wikipedia.org/wiki/Anime)**, I was often asked to create a label they could rally under. That inquiry eventually gave birth to **Kowloon City 93**.  
 
-The aesthetic and mystery of **Anime4breakfast** had always been central to its appeal. When brainstorming for KC.93 RR, I sought something equally enigmatic. The inspiration came from the haunting allure of **[Gunkanjima Island](https:/jlchristian.com/jlchristian.comen.wikipedia.org/jlchristian.comwiki/jlchristian.comHashima_Island)**, an abandoned island in Japan. However, it was the **[Walled City of Kowloon](https:/jlchristian.com/jlchristian.comen.wikipedia.org/jlchristian.comwiki/jlchristian.comKowloon_Walled_City)** that truly embodied the ideal. Its dense, layered history and reputation as an urban labyrinth felt like the perfect fit for the label’s concept—an intricate and mysterious structure mirroring the ethos of the artists involved.
+The aesthetic and mystery of **Anime4breakfast** had always been central to its appeal. When brainstorming for KC.93 RR, I sought something equally enigmatic. The inspiration came from the haunting allure of **[Gunkanjima Island](https://en.wikipedia.org/wiki/Hashima_Island)**, an abandoned island in Japan. However, it was the **[Walled City of Kowloon](https://en.wikipedia.org/wiki/Kowloon_Walled_City)** that truly embodied the ideal. Its dense, layered history and reputation as an urban labyrinth felt like the perfect fit for the label’s concept—an intricate and mysterious structure mirroring the ethos of the artists involved.
 
-![a4b milesdeva timothy](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.coma4b_miles-deval-timothy.png)
-**A4B! Issue 01 advertivements** - 2007 /jlchristian.com Feb.
+![a4b milesdeva timothy](//assets/img/a4b_miles-deval-timothy.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
@@ -27,7 +27,7 @@ I couldn’t help but feel that meeting these two was more than chance; it was a
 
 It was in those early discussions that the concept for the **Deval and Miles Timothy advertisement** began to take shape. It wasn’t just an advertisement—it was a showcase of artistry, a visual narrative of how creative minds inspire and enhance each other. I wanted to capture this moment, not just for them but for myself as a document of how connections like these fuel my own creative process.  
 
-Duval’s contributions became integral, and his ability to balance music, visual arts, and storytelling resonated deeply with my vision. You can see some of his *[work here](https:/jlchristian.com/jlchristian.comen.wikipedia.org/jlchristian.comwiki/jlchristian.comDuval_Timothy)*, a blend of mediums that feels simultaneously intimate and expansive.  
+Duval’s contributions became integral, and his ability to balance music, visual arts, and storytelling resonated deeply with my vision. You can see some of his *[work here](https://en.wikipedia.org/wiki/Duval_Timothy)*, a blend of mediums that feels simultaneously intimate and expansive.  
 
 As for Miles, his enthusiasm and unique perspective brought a grounding energy to our collaboration. Together, they inspired me to think differently about how artistry can be framed, shared, and experienced. Anime4Breakfast felt like the ideal stage to bring their collective brilliance to life, while subtly weaving my own narrative of discovery and collaboration into the mix.  
 
@@ -35,12 +35,12 @@ This project wasn’t just about them; it was about me finding and amplifying cr
 
 Reflecting on this, I realize how much of my work thrives on connection: on finding kindred spirits like the Timothys and creating spaces where our creative energies intersect. It’s moments like these that remind me why I do what I do.  
 
-*[Visit Duval Timothy's website](https:/jlchristian.com/jlchristian.comen.wikipedia.org/jlchristian.comwiki/jlchristian.comDuval_Timothy)*  
+*[Visit Duval Timothy's website](https://en.wikipedia.org/wiki/Duval_Timothy)*  
 *[Learn more about Anime4Breakfast](#)*  
 
 
-![suckafree export](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.compixelcut-export2.png)
-**Bad News S, Free** Sucka Free First Year at Anime4Breakfast 2007 /jlchristian.com Apr.
+![suckafree export](//assets/img/pixelcut-export2.png)
+**Bad News S, Free** Sucka Free First Year at Anime4Breakfast 2007 / Apr.
 
 --- 
 
