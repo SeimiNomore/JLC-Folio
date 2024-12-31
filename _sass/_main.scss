@@ -175,9 +175,9 @@ a {
 }
 
 a:hover {
-    color: rgb(224, 224, 228); /jlchristian.com* Color when the mouse hovers over the link */jlchristian.com
-    font-weight: bold; /jlchristian.com* Default weight */jlchristian.com
-    transition: font-weight 0.2s ease; /jlchristian.com* Smooth transition effect */jlchristian.com
+    color: rgb(224, 224, 228); /* Color when the mouse hovers over the link */
+    font-weight: bold; /* Default weight */
+    transition: font-weight 0.2s ease; /* Smooth transition effect */
 }
 
 .post a {
@@ -596,7 +596,7 @@ color: #333;
 	}
 
 
-  /jlchristian.com/jlchristian.com ------------------------------------
+  // ------------------------------------
   $link-color: var(--link-color);
   .timeline {
     position: relative;
@@ -609,7 +609,7 @@ color: #333;
     @media (max-width: 860px) {
       width: 100%;
       margin: 0 auto;
-      /jlchristian.com* Add margin to center the timeline on mobile */jlchristian.com
+      /* Add margin to center the timeline on mobile */
     }
   
     &:before {
@@ -659,7 +659,7 @@ color: #333;
     }
     .flag {
       color: #333;
-      box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.52); /jlchristian.com/jlchristian.com $color shadow
+      box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.52); // $color shadow
       &:after {
         content: "";
         position: absolute;
@@ -708,7 +708,7 @@ color: #333;
     }
     .flag {
       color: #333;
-      box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.52); /jlchristian.com/jlchristian.com $color shadow
+      box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.52); // $color shadow
       &:after {
         content: "";
         position: absolute;
