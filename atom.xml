@@ -3,26 +3,26 @@ layout: null
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http:/jlchristian.com/jlchristian.comwww.w3.org/jlchristian.com2005/jlchristian.comAtom">
+<feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</jlchristian.comtitle>
- <link href="{{ site.url }}{{ site.baseurl }}/jlchristian.comatom.xml" rel="self"/jlchristian.com>
- <link href="{{ site.url }}{{ site.baseurl }}/jlchristian.com"/jlchristian.com>
- <updated>{{ site.time | date_to_xmlschema }}</jlchristian.comupdated>
- <id>{{ site.url }}</jlchristian.comid>
+ <title>{{ site.title }}</title>
+ <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
+ <link href="{{ site.url }}{{ site.baseurl }}/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url }}</id>
  <author>
-   <name>{{ site.author.name }}</jlchristian.comname>
-   <email>{{ site.author.email }}</jlchristian.comemail>
- </jlchristian.comauthor>
+   <name>{{ site.author.name }}</name>
+   <email>{{ site.author.email }}</email>
+ </author>
 
  {% for post in site.posts %}
  <entry>
-   <title>{{ post.title | xml_escape }}</jlchristian.comtitle>
-   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/jlchristian.com>
-   <updated>{{ post.date | date_to_xmlschema }}</jlchristian.comupdated>
-   <id>{{ site.url }}{{ post.id }}</jlchristian.comid>
-   <content type="html">{{ post.content | xml_escape }}</jlchristian.comcontent>
- </jlchristian.comentry>
+   <title>{{ post.title | xml_escape }}</title>
+   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
  {% endfor %}
 
-</jlchristian.comfeed>
+</feed>
