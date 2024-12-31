@@ -14,6 +14,7 @@ Conception / 2006 - 2011
 <br>
 
 
+
 ![a4b-blog-season](/jlchristian.com/assets/img/a4b-blog-season.png)
 **a4b! Blog Season**
 
@@ -29,4 +30,3 @@ Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless
 ---
 
 This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."*
-
