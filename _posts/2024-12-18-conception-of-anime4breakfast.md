@@ -15,7 +15,7 @@ Conception / 2006 - 2011
 
 
 
-![a4b-blog-season](/jlchristian.com/assets/img/a4b-blog-season.png)
+![a4b-blog-season](//assets/img/a4b-blog-season.png)
 **a4b! Blog Season**
 
 ---
@@ -23,7 +23,7 @@ Conception / 2006 - 2011
 Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.*
 
 
-![a4b_blog-page.png](/jlchristian.com/assets/img/a4b_blog-page.png)
+![a4b_blog-page.png](//assets/img/a4b_blog-page.png)
 
 **a4b! Issue #2 Banner**
 
