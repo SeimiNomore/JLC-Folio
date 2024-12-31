@@ -2,4 +2,4 @@
 layout: none
 ---
 User-agent: *
-Sitemap: {{ https:/jlchristian.com/jlchristian.comseiminomore.github.io/jlchristian.com/jlchristian.com }}/jlchristian.comsitemap.xml
+Sitemap: {{ https://seiminomore.github.io// }}/sitemap.xml
