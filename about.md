@@ -6,11 +6,11 @@ description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 ---
 
 <div class="flex-row-between">
-	<a href="{{ https://seiminomore.github.io/jlchristian.com }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></jlchristian.comi> Home
-	</jlchristian.coma>
+	<a href="{{ https://seiminomore.github.io/jlchristian.com/ }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></i> Home
+	</a>
 	
 
-</jlchristian.comdiv>
+</div>
 <br>
 **About Me**  
 
@@ -60,7 +60,7 @@ I am a multidisciplinary artist whose professional journey spans art direction, 
 ---  
 <br>
 <br>
-![JLC-Recovered](/jlchristian.com/jlchristian.comassets/jlchristian.comimg/jlchristian.comJLC-Recovered.png)
+![JLC-Recovered](/jlchristian.com/assets/img/JLC-Recovered.png)
 <br>
 <br>
 <br>
