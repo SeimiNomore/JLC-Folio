@@ -1,5 +1,5 @@
 ruby '>= 3.0.0'
-source "https:/jlchristian.com/jlchristian.comrubygems.org"
+source "https://rubygems.org"
 gem 'jekyll'
 gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
