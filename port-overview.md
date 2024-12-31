@@ -2,12 +2,12 @@
 layout: page
 title: Portfolio-Overview
 
-description: Discover how the site operates and explore its features to maximize your experience with JLC-Folio vision behind the works.
+description: Discover how the site operates and explore its features to maximize your experience with jlchristian.com vision behind the works.
 
 ---
 
 <div class="flex-row-between">
-	<a href="{{ https://seiminomore.github.io/JLC-Folio/ }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></i> Home
+	<a href="{{ https://seiminomore.github.io/jlchristian.com/ }}{{ site.baseurl}}"><i class="fa fa-home" aria-hidden="true"></i> Home
 	</a>
 
 </div>

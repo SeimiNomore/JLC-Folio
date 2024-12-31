@@ -1,4 +1,4 @@
-# JLC-Folio 
+# jlchristian.com 
 
 Simple and minimal Jekyll Protfolio blog. 
 

@@ -7,7 +7,7 @@ tags: typography logo development
 time: 12:09AM
 ---
 
-![a4b kowloon art](/JLC-Folio/assets/img/a4b-kowloon-art.png)
+![a4b kowloon art](/jlchristian.com/assets/img/a4b-kowloon-art.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
@@ -16,7 +16,7 @@ Kowloon was a place that I deeply appreciated. The fact that it was once conside
 
 The aesthetic and mystery of **Anime4breakfast** had always been central to its appeal. When brainstorming for KC.93 RR, I sought something equally enigmatic. The inspiration came from the haunting allure of **[Gunkanjima Island](https://en.wikipedia.org/wiki/Hashima_Island)**, an abandoned island in Japan. However, it was the **[Walled City of Kowloon](https://en.wikipedia.org/wiki/Kowloon_Walled_City)** that truly embodied the ideal. Its dense, layered history and reputation as an urban labyrinth felt like the perfect fit for the label’s concept—an intricate and mysterious structure mirroring the ethos of the artists involved.
 
-![a4b milesdeva timothy](/JLC-Folio/assets/img/a4b_miles-deval-timothy.png)
+![a4b milesdeva timothy](/jlchristian.com/assets/img/a4b_miles-deval-timothy.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
@@ -39,7 +39,7 @@ Reflecting on this, I realize how much of my work thrives on connection: on find
 *[Learn more about Anime4Breakfast](#)*  
 
 
-![suckafree export](/JLC-Folio/assets/img/pixelcut-export2.png)
+![suckafree export](/jlchristian.com/assets/img/pixelcut-export2.png)
 **Bad News S, Free** Sucka Free First Year at Anime4Breakfast 2007 / Apr.
 
 --- 
