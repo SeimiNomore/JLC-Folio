@@ -7,6 +7,10 @@
       "resolved": "https://registry.npmjs.org/fuzzysearch/-/fuzzysearch-1.0.3.tgz",
       "version": "1.0.3"
     },
-    "simple-jekyll-search": "^1.9.2"
+    "simple-jekyll-search": {
+      "version": "1.9.2",
+      "resolved": "https://registry.npmjs.org/simple-jekyll-search/-/simple-jekyll-search-1.9.2.tgz",
+      "integrity": "sha512-xyz12345hashvaluehere="  // Note: You'll need to generate this hash
+    }
   }
 }
