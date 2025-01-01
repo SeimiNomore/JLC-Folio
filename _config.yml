@@ -1,67 +1,48 @@
 site: J.L. Christian - Portfolio
 title: J.L. Christian - Portfolio
-greetings: Welcome to the online portfolio of J.L. Christian. This is porfolio of curated collection of my finest works, exploring the intersections of fine art, digital design, and collaborative storytelling.  
+description: >
+  Welcome to the online portfolio of J.L. Christian. This portfolio includes:
+  - Processes: Insight into the creative process, from conceptualization to completion.
+  - Digital Art: A diverse array of visually striking digital artworks.
+  - Art Direction: Case studies and projects showcasing cohesive results.
+  - Collaborations: Highlights of partnerships and unique works.
 
-  Overview  
-
-  On this site, you will find a comprehensive portfolio detailing my artistic journey and professional expertise. Expect to discover  
-
-  - Processes An inside look into my creative process, from conceptualization to completion, highlighting the meticulous techniques and inspirations behind each project.  
-  - Digital Art A diverse array of visually striking digital artworks that blend traditional artistic principles with cutting-edge technology.  
-  - Art Direction Case studies and projects where I have directed creative visions to life, ensuring cohesive and impactful results.  
-  - Collaborations A showcase of partnerships with other artists, brands, and creative professionals, emphasizing the power of collaboration in creating unique works.  
-
-  Whether you're here to admire, collaborate, or commission, my portfolio site offers a seamless and inspiring journey through my artistic endeavors.
-
-site: Portfolio
-
-
-title: J.L. Christian's Portfolio
-greetings: Portfolio
-
-description: >-
-  
-  <b>Portfolio of J.L. Christian</b>
-  <br>
-  <br> 
-  A index of my creative works, projects and collabrations as case study and journal entries to my works. This portfolio serves as a resource for showcasing how I work with others—whether through partnerships, commissions, or team endeavors—and documents my approach to managing and executing creative projects. 
- 
 lang: en-US
-timezone:  US/California 
-
-repo:  # site repo [optional]
-
-
-data-theme: light # default theme "dark" | "light"
-discus-identifier: # replace with your disqus shortname
-comments-enabled: false # true to enable disqus comments, false to hide them
+timezone: US/California
+data-theme: light
 
 author:
   name: J.L. Christian
-  bio: This portfolio serves as an index of my creative works, projects, and collaborations, offering a comprehensive case study and journal of my artistic journey. It is a curated resource that highlights both my individual projects and my collaborations with others, whether through partnerships, commissions, or team-driven endeavors. Each entry within this portfolio reflects my approach to managing and executing creative projects, showcasing the thought processes, methods, and outcomes of both my personal creations and collaborative efforts. Through this collection, I aim to demonstrate the versatility and adaptability of my practice, emphasizing how I engage with different creative professionals and environments. Each case study not only reveals my contribution to various projects but also the dynamic nature of working within diverse teams, alongside a deep exploration of my independent creative pursuits. This journal-style format provides a transparent view of the evolution of my work, offering insights into my collaborative strategies, problem-solving approaches, and the ongoing refinement of my craft.
+  bio: >
+    This portfolio serves as an index of my creative works, projects, and collaborations.
+  userpicture: /assets/img/JLC-Recovered.png
+  github: SeimiNomore
 
-  userpicture: /jlchristian.com/assets/img/JLC-Recovered.png
-  username: # general username
-  github: SeimiNomore # github username
-  twitter: # twitter username
-  mastodon: # mastodon profile (ex. mastodon.social/@my_username)
-  linkedin: # linkedin profile
-  email: your-email@email.com # email adress
-
-# Font Settings
-googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
-
-# URL settings
-
-url: "https://jlchristian.com" # Domain Name of host. SeimiNomore.github.io for github pages
-baseurl: "/" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
-
+url: "https://jlchristian.com"
+baseurl: "/"
 
 permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-# local
-# url: "http://localhost:4000" # 
-# baseurl: "" # 
+exclude:
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
 
 
 markdown: kramdown
