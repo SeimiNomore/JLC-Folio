@@ -6,7 +6,7 @@ description: Learn more about JLC-ART and the vision behind the Artworks Codex.
 ---
 
 <div class="flex-row-between">
-	<a href="{{ https://seiminomore.github.io/}}{{ /jlchristian.com}}"><i class="fa fa-home" aria-hidden="true"></i> Home
+	<a href="{{ https://seiminomore.github.io/}}{{ }}"><i class="fa fa-home" aria-hidden="true"></i> Home
 	</a>
 	
 

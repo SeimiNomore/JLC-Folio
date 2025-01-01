@@ -19,7 +19,7 @@ author:
   github: SeimiNomore
 
 url: "https://seiminomore.github.io"
-baseurl: "/jlchristian.com"
+baseurl: ""
 
 permalink: pretty
 markdown: kramdown
