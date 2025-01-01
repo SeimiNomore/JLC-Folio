@@ -1,7 +1,7 @@
 {% capture headingsWorkspace %}
   {% comment %}
     Version 1.0.4
-      https:/jlchristian.com/jlchristian.comgithub.com/jlchristian.comallejo/jlchristian.comjekyll-anchor-headings
+      https://github.com/allejo/jekyll-anchor-headings
 
     "Be the pull request you wish to see in the world." ~Ben Balter
 
@@ -53,7 +53,7 @@
       {% continue %}
     {% endif %}
 
-    {% assign _workspace = node | split: '</jlchristian.comh' %}
+    {% assign _workspace = node | split: '</h' %}
     {% assign _idWorkspace = _workspace[0] | split: 'id="' %}
     {% assign _idWorkspace = _idWorkspace[1] | split: '"' %}
     {% assign html_id = _idWorkspace[0] %}
@@ -79,7 +79,7 @@
         {% capture anchor %}{{ anchor }} {{ include.anchorAttrs }}{% endcapture %}
       {% endif %}
 
-      {% capture anchor %}<a {{ anchor }}>{{ include.anchorBody | replace: '%heading%', header | default: '' }}</jlchristian.coma>{% endcapture %}
+      {% capture anchor %}<a {{ anchor }}>{{ include.anchorBody | replace: '%heading%', header | default: '' }}</a>{% endcapture %}
 
       <!-- In order to prevent adding extra space after a heading, we'll let the 'anchor' value contain it -->
       {% if beforeHeading %}
@@ -98,7 +98,7 @@
           {{ header }}{{ anchor }}
         {% endif %}
         {{ include.bodySuffix }}
-      </jlchristian.comh{{ _workspace | last }}
+      </h{{ _workspace | last }}
     {% endcapture %}
     {% capture edited_headings %}{{ edited_headings }}{{ new_heading }}{% endcapture %}
   {% endfor %}
